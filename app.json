@@ -1,4 +1,7 @@
 {
   "name": "codemagic_demo",
-  "displayName": "codemagic_demo"
+  "displayName": "codemagic_demo",
+  "android": {
+    "package": "com.codemagic_demo"
+  }
 }
